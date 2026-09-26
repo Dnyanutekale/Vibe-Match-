@@ -1,10 +1,6 @@
 # ✨ VibeMate — Modern Mobile-First Dating & Social Discovery Platform
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=80" alt="VibeMate Banner" width="100%" style="border-radius: 20px;" />
-</p>
-
-<p align="center">
   <strong>Find people who match your wavelength, vibe, and creative energy.</strong>
 </p>
 
